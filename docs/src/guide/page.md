@@ -78,7 +78,8 @@ For the `login`, `layout`, and `home` pages, no menu configuration file are requ
 
 :::tip
 How to configure menu icon: Copy the SVG code for the icon you want from [xicons](https://www.xicons.org/#/),
-and then go to the [xml2json](https://jsonformatter.org/xml-to-json) site to convert the SVG code to JSON format.
+and then use [xml2json](https://jsonformatter.org/xml-to-json) or
+[JSONViewerTool's XML to JSON converter](https://jsonviewertool.com/xml-to-json) to convert the SVG code to JSON format.
 :::
 
 The menu is divided into primary menu and secondary menu. Oui-ui-core provides some common primary menus by default
